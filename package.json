@@ -1,0 +1,31 @@
+{
+  "name": "charset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js --mode development",
+    "prod": "webpack --config webpack.config.js --mode production",
+    "watch": "webpack --watch --config ./webpack.config.js --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.13",
+    "css-loader": "^5.0.1",
+    "react-hot-loader": "^4.13.0",
+    "sass": "^1.32.6",
+    "sass-loader": "^11.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "babel-loader": "^8.2.2",
+    "circular-dependency-plugin": "^5.2.2",
+    "gpu.js": "^1.4.12",
+    "style-loader": "^2.0.0"
+  }
+}

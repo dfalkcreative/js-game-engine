@@ -1,0 +1,1 @@
+To run, start a local server using: `python -m SimpleHTTPServer`

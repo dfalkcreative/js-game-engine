@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d6cfc56-f17b-4e25-a875-f585bcd157f2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals5.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5220">
+              <caret line="326" column="41" selection-start-line="326" selection-start-column="41" selection-end-line="326" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="n#!!block;n#getGUIFrame#0;n#Game#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="60" selection-start-column="60" selection-end-column="60" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Generation/Generator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7418">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <element signature="n#!!block;n#getRandomElement#0;n#Generator#0" />
+                <element signature="n#!!block;n#getArea#0;n#Generator#0" />
+                <element signature="n#!!block;n#addRegionsToLayer#0;n#Generator#0" />
+                <element signature="n#!!block;n#getTextures#0;n#Generator#0" />
+                <element signature="n#!!block;n#hasTexture#0;n#Generator#0" />
+                <element signature="n#!!block;n#getTexture#0;n#Generator#0" />
+                <element signature="n#!!block;n#getHeightMap#0;n#Generator#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Scene/Scene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9900">
+              <caret line="500" column="48" selection-start-line="500" selection-start-column="48" selection-end-line="500" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/pack_som/tiles_1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Entity/Sprite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26240">
+              <caret line="1319" column="40" selection-start-line="1319" selection-start-column="40" selection-end-line="1319" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kernel/Engine.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/horse1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/birds2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iy</find>
+      <find>'Cliff</find>
+      <find>Cliff</find>
+      <find>stay in bounds.</find>
+      <find>.getX() &lt; 0</find>
+      <find>Scene.c</find>
+      <find>#ff</find>
+      <find>generat</find>
+      <find>text(</find>
+      <find>Engine.te</find>
+      <find>pack_s</find>
+      <find>refresh(</find>
+      <find>getAnimation().getFrame</find>
+      <find>.text</find>
+      <find>getNear</find>
+      <find>getScaled</find>
+      <find>getInsta</find>
+      <find>getCollision</find>
+      <find>getPlayer</find>
+      <find>setColl</find>
+      <find>.rec</find>
+      <find>.rectangle</find>
+      <find>IsVis</find>
+      <find>Zoom</find>
+      <find>Access</find>
+      <find>draw</find>
+      <find>clone(</find>
+      <find>new Gen</find>
+      <find>0.9</find>
+      <find>playerStart</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/game.js" />
+        <option value="$PROJECT_DIR$/engine.js" />
+        <option value="$PROJECT_DIR$/src/perlin.js" />
+        <option value="$PROJECT_DIR$/src/game.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/math/matrix.js" />
+        <option value="$PROJECT_DIR$/src/math/vector2f.js" />
+        <option value="$PROJECT_DIR$/src/math/vector3f.js" />
+        <option value="$PROJECT_DIR$/src/math/vector4f.js" />
+        <option value="$PROJECT_DIR$/src/Resource/Resource.js" />
+        <option value="$PROJECT_DIR$/src/Animation/Frame.js" />
+        <option value="$PROJECT_DIR$/src/Graphic/SpriteSheet.js" />
+        <option value="$PROJECT_DIR$/src/Animation/Animation.js" />
+        <option value="$PROJECT_DIR$/src/Event/EventPayload.js" />
+        <option value="$PROJECT_DIR$/src/Animation/Sequence.js" />
+        <option value="$PROJECT_DIR$/src/Animation/Timeline.js" />
+        <option value="$PROJECT_DIR$/src/Graphic/Particle.js" />
+        <option value="$PROJECT_DIR$/src/engine.js" />
+        <option value="$PROJECT_DIR$/src/Example/Procedural/Event/UpdateHealthPayload.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/Event/CollisionPayload.js" />
+        <option value="$PROJECT_DIR$/src/Event/DistancePayload.js" />
+        <option value="$PROJECT_DIR$/src/Event/RenderBeforePayload.js" />
+        <option value="$PROJECT_DIR$/src/Entity/Emitter.js" />
+        <option value="$PROJECT_DIR$/src/Animation/KeyFrame.js" />
+        <option value="$PROJECT_DIR$/src/Graphic/Layer.js" />
+        <option value="$PROJECT_DIR$/src/Scene/Camera.js" />
+        <option value="$PROJECT_DIR$/src/Math/Vector3f.js" />
+        <option value="$PROJECT_DIR$/src/Resource/ImageResource.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/Entity/Tile.js" />
+        <option value="$PROJECT_DIR$/src/Entity/AutoTile.js" />
+        <option value="$PROJECT_DIR$/src/Math/Matrix.js" />
+        <option value="$PROJECT_DIR$/src/Example/Procedural/Generation/Path.js" />
+        <option value="$PROJECT_DIR$/src/Kernel/State.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/Input/Controller.js" />
+        <option value="$PROJECT_DIR$/src/Scene/Scene.js" />
+        <option value="$PROJECT_DIR$/src/Example/Procedural/Entity/ISprite.js" />
+        <option value="$PROJECT_DIR$/src/Kernel/Engine.js" />
+        <option value="$PROJECT_DIR$/src/Entity/Sprite.js" />
+        <option value="$PROJECT_DIR$/src/Example/Procedural/Game.js" />
+        <option value="$PROJECT_DIR$/src/Example/Procedural/Generation/Generator.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1792" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="pack_som" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sprite_animals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sprite_animals" type="462c0819:PsiDirectoryNode" />
+              <item name="MV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sprite_animals" type="462c0819:PsiDirectoryNode" />
+              <item name="sheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sprite_animals" type="462c0819:PsiDirectoryNode" />
+              <item name="VX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="charset" type="b2602c69:ProjectViewProjectNode" />
+              <item name="charset" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="som&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/resources/pack_som&#10;Engin&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Kernel/Engine.js&#10;Sprite&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/Sprite.js&#10;Scene&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Scene/Scene.js&#10;Game&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Game.js&#10;ISp&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Entity/ISprite.js&#10;IS&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Entity/ISprite.js&#10;Gener&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Generation/Generator.js&#10;Scen&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Scene/Scene.js&#10;index&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/index.html&#10;Engine&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Kernel/Engine.js&#10;ISpr&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Entity/ISprite.js&#10;tiles&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/resources/pack_som/tiles_1.png&#10;Auto&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/AutoTile.js&#10;Colli&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Event/CollisionPayload.js&#10;Sce&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Scene/Scene.js&#10;Path&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Generation/Path.js&#10;Ga&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Game.js&#10;read&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/readme.md&#10;Matr&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Math/Matrix.js&#10;AutoT&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/AutoTile.js&#10;Imager&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Resource/ImageResource.js&#10;Upda&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Example/Procedural/Event/UpdateHealthPayload.js&#10;til&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/Tile.js&#10;Spr&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/Sprite.js&#10;Emitt&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/Entity/Emitter.js&#10;engine&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/engine.js&#10;DistanceP&#9;null&#9;null&#10;Distance&#9;null&#9;null&#10;game_&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/game_zelda.js&#10;game&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/game.js&#10;engine.&#9;FILE&#9;file:///Users/danielfalk/Documents/Web Projects/charset/src/engine.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Example/Zelda" />
+      <recent name="$PROJECT_DIR$/src/Graphic" />
+      <recent name="$PROJECT_DIR$/src/extra" />
+      <recent name="$PROJECT_DIR$/src/math" />
+      <recent name="$PROJECT_DIR$/src/examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6cfc56-f17b-4e25-a875-f585bcd157f2" name="Default Changelist" comment="" />
+      <created>1622663431640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622663431640</updated>
+      <workItem from="1622663432699" duration="6078000" />
+      <workItem from="1622722868539" duration="2157000" />
+      <workItem from="1622730767362" duration="2211000" />
+      <workItem from="1622735615299" duration="4960000" />
+      <workItem from="1622748696145" duration="47000" />
+      <workItem from="1622748757398" duration="18683000" />
+      <workItem from="1622808973793" duration="3560000" />
+      <workItem from="1622817928844" duration="5194000" />
+      <workItem from="1622834160826" duration="7689000" />
+      <workItem from="1623069751545" duration="1513000" />
+      <workItem from="1623091993407" duration="6248000" />
+      <workItem from="1623165447565" duration="2176000" />
+      <workItem from="1623170718252" duration="16756000" />
+      <workItem from="1623190292711" duration="6194000" />
+      <workItem from="1623250924705" duration="5748000" />
+      <workItem from="1623269914562" duration="3422000" />
+      <workItem from="1623328502918" duration="3039000" />
+      <workItem from="1623337350140" duration="4598000" />
+      <workItem from="1623353735288" duration="19244000" />
+      <workItem from="1623424296088" duration="5723000" />
+      <workItem from="1623442532253" duration="7548000" />
+      <workItem from="1623671539012" duration="6166000" />
+      <workItem from="1623693656461" duration="233000" />
+      <workItem from="1623703326832" duration="2384000" />
+      <workItem from="1623716640891" duration="479000" />
+      <workItem from="1623717158641" duration="333000" />
+      <workItem from="1623758163506" duration="4372000" />
+      <workItem from="1623847290009" duration="4185000" />
+      <workItem from="1623873378881" duration="11711000" />
+      <workItem from="1623949725525" duration="279000" />
+      <workItem from="1623959450863" duration="5838000" />
+      <workItem from="1624016923308" duration="5799000" />
+      <workItem from="1624029554748" duration="18357000" />
+      <workItem from="1624057336595" duration="1629000" />
+      <workItem from="1624106223723" duration="10769000" />
+      <workItem from="1624152037314" duration="2691000" />
+      <workItem from="1624193565767" duration="10788000" />
+      <workItem from="1624229349884" duration="2629000" />
+      <workItem from="1624237522772" duration="7334000" />
+      <workItem from="1624277288773" duration="4888000" />
+      <workItem from="1624306859524" duration="6545000" />
+      <workItem from="1624396196801" duration="873000" />
+      <workItem from="1624453526081" duration="2192000" />
+      <workItem from="1624536762944" duration="4210000" />
+      <workItem from="1624566689383" duration="2076000" />
+      <workItem from="1624623684460" duration="2606000" />
+      <workItem from="1624648989715" duration="5522000" />
+      <workItem from="1624884506790" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="257745000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1792" height="1008" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27657142" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34395605" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24971429" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Animation/Timeline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Emitter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2840">
+          <caret line="142" column="26" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event/DistancePayload.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event/EventPayload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event/RenderBeforePayload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphic/Frame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphic/Particle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphic/SpriteSheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Vector4f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scene/Camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Generation/Path.php" />
+    <entry file="file://$PROJECT_DIR$/src/Math/Vector3f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource/ImageResource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Event/UpdateHealthPayload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65020">
+          <caret line="3264" column="4" selection-start-line="3264" selection-start-column="4" selection-end-line="3264" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23520">
+          <caret line="1189" column="4" selection-start-line="1189" selection-start-column="4" selection-end-line="1189" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Event/CollisionPayload.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/AutoTile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3620">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Tile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Generation/Path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4400">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kernel/State.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animation/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Graphic/Layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4480">
+          <caret line="228" column="4" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Vector2f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/pack_rpg_character/Static/c3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Input/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="139" column="44" lean-forward="true" selection-start-line="139" selection-start-column="44" selection-end-line="139" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Entity/ISprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/VX/animals5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/VX/horse1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/MV/horse1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/MV/animals5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/birds1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/animals5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5220">
+          <caret line="326" column="41" selection-start-line="326" selection-start-column="41" selection-end-line="326" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#getGUIFrame#0;n#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="60" selection-start-column="60" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scene/Scene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9900">
+          <caret line="500" column="48" selection-start-line="500" selection-start-column="48" selection-end-line="500" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/pack_som/tiles_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Sprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26240">
+          <caret line="1319" column="40" selection-start-line="1319" selection-start-column="40" selection-end-line="1319" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kernel/Engine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/horse1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/sprite_animals/sheets/birds2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Example/Procedural/Generation/Generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7418">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="n#!!block;n#getRandomElement#0;n#Generator#0" />
+            <element signature="n#!!block;n#getArea#0;n#Generator#0" />
+            <element signature="n#!!block;n#addRegionsToLayer#0;n#Generator#0" />
+            <element signature="n#!!block;n#getTextures#0;n#Generator#0" />
+            <element signature="n#!!block;n#hasTexture#0;n#Generator#0" />
+            <element signature="n#!!block;n#getTexture#0;n#Generator#0" />
+            <element signature="n#!!block;n#getHeightMap#0;n#Generator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
