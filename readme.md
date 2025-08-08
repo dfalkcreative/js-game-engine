@@ -1,4 +1,4 @@
-# JA Game Engine
+# JS Game Engine
 (just another game engine)
 
 ![Screen Shot 2021-07-17 at 9 54 49 AM](https://user-images.githubusercontent.com/21268999/126039317-05a12f23-cbc8-41b5-b5df-f37bed00f195.png)
